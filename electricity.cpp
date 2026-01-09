@@ -1,6 +1,6 @@
 /*
 Full Name: [بهاء هيثم ابراهيم]
-Group: [B2]
+Group: [B1]
 */
 
 #include <iostream>
